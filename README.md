@@ -1,4 +1,4 @@
-#Ruakh
+# Ruakh
 
 *Ruakh* is a non-commercial website project that allows users to access to free resources
 about the bible.
@@ -15,7 +15,7 @@ about the bible.
 
 ## Goal of the website
 
-###Use technologies :
+### Use technologies :
 * PHP 8
 * Docker
 * Jenkins (CI)
